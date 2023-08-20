@@ -1,0 +1,28 @@
+Property Tycoon
+Credits
+-------
+
+Main menu picture
+Pixabay pictures
+https://pixabay.com/photos/game-board-game-dice-3978841/
+
+Sfx for buttons
+Electric Sound Effects Library, Unity Asset Store
+https://assetstore.unity.com/packages/audio/electric-sound-effects-library-36990
+
+Gameplay music 1
+Mr Smith - Walk the Walk
+https://freemusicarchive.org/music/mr-smith/fredson-drive/walk-the-walk
+
+Gameplay music 2
+Mr Smith - Catch and Release
+https://freemusicarchive.org/music/mr-smith/fredson-drive/catch-and-release
+
+Game Font
+Playfair Display Font by Claus Eggers Sørensen
+https://www.fontspace.com/playfair-display-font-f44531
+
+UI symbols
+Kenney's board game icons
+https://kenney.nl/assets/board-game-icons
+

@@ -1,0 +1,33 @@
+﻿You inherit £200,200,Potluck,collect
+You have won 2nd prize in a beauty contest; collect £50,50,Potluck,collect
+You are up the creek with no paddle - go back to the Old Creek,The Old Creek,Potluck,backward
+Student loan refund. Collect £20,20,Potluck,collect
+Bank error in your favour. Collect £200,200,Potluck,collect
+Pay bill for text books of £100,100,Potluck,bank
+Mega late night taxi bill pay £50,50,Potluck,bank
+Advance to go,Go,Potluck,forward
+From sale of Bitcoin you get £50,50,Potluck,collect
+Bitcoin assets fall - pay off Bitcoin short fall,50,Potluck,bank
+Pay a £10 fine or take opportunity knocks,Knocks;10,Potluck,choice
+Pay insurance fee of £50,50,Potluck,parking
+Savings bond matures; collect £100,100,Potluck,collect
+Go to jail. Do not pass GO; do not collect £200,As the card says,Potluck,jail
+Received interest on shares of £25,25,Potluck,collect
+It's your birthday. Collect £10 from each player,10,Potluck,playerpay
+Get out of jail free,Retained by the player until needed. No resale or trade value,Potluck,jailfree
+Bank pays you divided of £50,50,Knocks,collect
+You have won a lip sync battle. Collect £100,100,Knocks,collect
+Advance to Turing Heights,Turing Heights,Knocks,forward
+Advance to Han Xin Gardens. If you pass GO; collect £200,Xin Gardens,Knocks,forward
+Fined £15 for speeding,15,Knocks,parking
+Pay university fees of £150,150,Knocks,bank
+Take a trip to Hove station. If you pass GO collect £200,Hove station,Knocks,forward
+Loan matures; collect £150,150,Knocks,collect
+You are assessed for repairs; £40/house; £115/hotel,40;115,Knocks,repairs
+Advance to GO,Go,Knocks,advance
+You are assessed for repairs; £25/house; £100/hotel,25;100,Knocks,repairs
+Go back 3 spaces,3,Knocks,intbackwards
+Advance to Skywalker Drive. If you pass GO collect £200,Skywalker Drive,Knocks,forward
+Go to jail. Do not pass Go; do not collect £200,As the card says,Knocks,jail
+Drunk in charge of a hoverboard. Fine £30,20,Knocks,parking
+Get out of jail free,Retained by the player until needed. No resale or trade value,Knocks,jailfree

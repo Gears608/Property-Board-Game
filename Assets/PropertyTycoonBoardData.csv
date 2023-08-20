@@ -1,0 +1,49 @@
+﻿1,Go,,200,No,,,,,,,,,Go
+2,The Old Creek,Brown,,Yes,60,2,10,30,90,160,250,50,Property
+3,Pot Luck,,Card,No,,,,,,,,,Card
+4,Gangsters Paradise,Brown,,Yes,60,4,20,60,180,320,450,50,Property
+5,Income Tax,,-200,No,,,,,,,,,Tax
+6,Brighton Station,Station,,Yes,200,,,,,,,,Station
+7,The Angels Delight,Blue,,Yes,100,6,30,90,270,400,550,50,Property
+8,Opportunity Knocks,,Card,No,,,,,,,,,Card
+9,Potter Avenue,Blue,,Yes,100,6,30,90,270,400,550,50,Property
+10,Granger Drive,Blue,,Yes,120,8,40,100,300,450,600,50,Property
+11,Jail/Just visiting,,,No,,,,,,,,,Jail
+12,Skywalker Drive,Purple,,Yes,140,10,50,150,450,625,750,100,Property
+13,Tesla Power Co,Utilities,,Yes,150,,,,,,,,Utility
+14,Wookie Hole,Purple,,Yes,140,10,50,150,450,625,750,100,Property
+15,Rey Lane,Purple,,Yes,160,12,60,180,500,700,900,100,Property
+16,Hove Station,Station,,Yes,200,,,,,,,,Station
+17,Bishop Drive,Orange,,Yes,180,14,70,200,550,750,950,100,Property
+18,Pot Luck,,Card,No,,,,,,,,,Card
+19,Dunham Street,Orange,,Yes,180,14,70,200,550,750,950,100,Property
+20,Broyles Lane,Orange,,Yes,200,16,80,220,600,800,1000,100,Property
+21,Free Parking,,Fines,No,,,,,,,,,Fines
+22,Yue Fei Square,Red,,Yes,220,18,90,250,700,875,1050,150,Property
+23,Opportunity Knocks,,Card,No,,,,,,,,,Card
+24,Mulan Rouge,Red,,Yes,220,18,90,250,700,875,1050,150,Property
+25,Han Xin Gardens,Red,,Yes,240,20,100,300,750,925,1100,150,Property
+26,Falmer Station,Station,,Yes,200,,,,,,,,Station
+27,Shatner Close,Yellow,,Yes,260,22,110,330,800,975,1150,150,Property
+28,Picard Avenue,Yellow,,Yes,260,22,110,330,800,975,1150,150,Property
+29,Edison Water,Utilities,,Yes,150,,,,,,,,Utility
+30,Crusher Creek,Yellow,,Yes,280,22,120,360,850,1025,1200,150,Property
+31,Go to Jail,Go to jail,,No,,,,,,,,,ToJail
+32,Sirat Mews,Green,,Yes,300,26,130,390,900,1100,1275,200,Property
+33,Ghengis Crescent,Green,,Yes,300,26,130,390,900,1100,1275,200,Property
+34,Pot Luck,,Card,No,,,,,,,,,Card
+35,Ibis Close,Green,,Yes,320,28,150,450,1000,1200,1400,200,Property
+36,Portslade Station,Station,,Yes,200,,,,,,,,Station
+37,Opportunity Knocks,Take card,,No,,,,,,,,,Card
+38,James Webb Way,Deep blue,,Yes,350,35,175,500,1100,1300,1500,200,Property
+39,Super Tax,,-100,No,,,,,,,,,Tax
+40,Turing Heights,Deep blue,,Yes,400,50,200,600,1400,1700,2000,200,Property
+,,,,,,,,,,,,,
+Notes,,,,,,,,,,,,,
+"If one utility is owned by a player, rent is 4 times value shown on dice.",,,,,,,,,,,,,
+"If both utilities are owned by a player, rent is 10 time value shown on dice.",,,,,,,,,,,,,
+"If player owns 1 station, rent is £25",,,,,,,,,,,,,
+"If player owns 2 stations, rent is £50",,,,,,,,,,,,,
+"If player owns 3 stations, rent is £100",,,,,,,,,,,,,
+"If player owns 4 stations, rent is £200",,,,,,,,,,,,,
+Income Tax and Super Tax fines are paid to the bank,,,,,,,,,,,,,
